@@ -1,0 +1,18 @@
+# object files and binaries
+*.o
+my_nm
+my_objdump
+
+#my test file
+*test*
+
+# code style tool
+NormEZ.rb
+
+# bootstrap
+bootstrap/*
+
+# files for Clion to function correctly
+CMakeLists.txt
+cmake-build-debug/*
+.idea/*
